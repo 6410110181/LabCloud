@@ -1,2 +1,1 @@
-def pthello():
-  print("Hello 6410110181")
+print("Hi Tuan 6410110181")
